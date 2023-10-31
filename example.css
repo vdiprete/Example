@@ -1,4 +1,4 @@
-{
+@media screen and (min-width: 900px) {
   .product-item__eventDetails:after  {
     content: "Click here for more details";
     text-align: center;

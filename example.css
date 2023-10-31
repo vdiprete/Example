@@ -1,0 +1,16 @@
+{
+  .product-item__eventDetails:after  {
+    content: "Click here for more details";
+    text-align: center;
+    border-color: gray;
+    border-style: solid;
+    height: fit-content;
+    background: gray;
+    color: white;
+    border-bottom-left-radius:10px;
+    max-width: max-content;
+    padding: 0.1875rem 0.5625rem 0.125rem;
+    margin-right:-16px;
+    margin-top: -12px;
+  }
+}
